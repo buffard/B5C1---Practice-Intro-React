@@ -11,6 +11,6 @@ export default class EmployeeList  extends Component {
                 <section>Zoe LeBlanc</section>
                 <section>Blaise Roberts</section>
             </article>
-        );
+        )
     }
 }
