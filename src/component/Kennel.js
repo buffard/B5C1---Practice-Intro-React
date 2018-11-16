@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import EmployeeList from "./employee/EmployeeList"  // Import EmployeeList component
+import EmployeeList from "../employee/EmployeeList"  // Import EmployeeList component
 
 
 export default class Kennel extends Component {
